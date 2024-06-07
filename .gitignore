@@ -1,0 +1,6 @@
+.DS_Store
+.virtual_documents/
+m2_venv/
+*.in
+notebooks/.DS_Store
+notebooks/.ipynb_checkpoints/
